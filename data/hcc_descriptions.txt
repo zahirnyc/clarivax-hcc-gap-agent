@@ -1,0 +1,39 @@
+HCC 19: Diabetes without Complication
+ICD-10: E11.9, E10.9, E13.9
+Description: Type 1 and Type 2 Diabetes Mellitus without complications. Most common HCC in Medicare Advantage.
+
+HCC 18: Diabetes with Chronic Complication
+ICD-10: E11.40, E11.41, E10.40
+Description: Diabetes with chronic kidney disease or neuropathy. Higher RAF than HCC 19.
+
+HCC 85: Congestive Heart Failure
+ICD-10: I50.9, I50.1, I50.20
+Description: Heart failure. High RAF weight, frequently under-coded.
+
+HCC 96: Atrial Fibrillation
+ICD-10: I48.0, I48.11, I48.19
+Description: Atrial fibrillation and flutter. Requires annual recapture.
+
+HCC 111: COPD
+ICD-10: J44.0, J44.1, J44.9
+Description: Chronic obstructive pulmonary disease. Frequently missed.
+
+HCC 136: Chronic Kidney Disease Stage 5
+ICD-10: N18.5, N18.6
+Description: Advanced CKD. Very high RAF weight.
+
+HCC 22: Morbid Obesity
+ICD-10: E66.01, E66.09
+Description: BMI 40 plus. Requires BMI documentation in chart.
+
+HCC 59: Major Depressive Disorder
+ICD-10: F32.0, F32.1, F32.2
+Description: Depression. Frequently missed in primary care.
+
+HCC 108: Vascular Disease
+ICD-10: I70.201, I70.0, I73.9
+Description: Peripheral vascular disease and atherosclerosis.
+
+HCC 137: Chronic Kidney Disease Stage 4
+ICD-10: N18.4
+Description: Severe CKD one stage below ESRD.
