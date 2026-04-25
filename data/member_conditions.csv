@@ -1,0 +1,1261 @@
+MEMBER_ID,AGE,GENDER,YEAR,HCC_CODE,HCC_NAME,ICD10_CODE,RAF_WEIGHT
+MBR00001,71,F,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00002,85,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00002,85,F,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00002,85,F,2022,108,Vascular Disease,I73.9,0.288
+MBR00002,85,F,2023,22,Morbid Obesity,E66.01,0.272
+MBR00003,80,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00003,80,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00004,89,F,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00004,89,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00005,79,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00005,79,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00006,76,F,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00006,76,F,2022,108,Vascular Disease,I73.9,0.288
+MBR00007,88,F,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00008,72,M,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00008,72,M,2022,108,Vascular Disease,I70.0,0.288
+MBR00008,72,M,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00009,88,M,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00009,88,M,2023,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00009,88,M,2022,111,COPD,J44.9,0.335
+MBR00010,78,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00010,78,M,2022,111,COPD,J44.9,0.335
+MBR00010,78,M,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00011,68,M,2023,108,Vascular Disease,I70.201,0.288
+MBR00011,68,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00011,68,M,2023,111,COPD,J44.1,0.335
+MBR00011,68,M,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00012,87,F,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00013,70,F,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00013,70,F,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00013,70,F,2023,22,Morbid Obesity,E66.01,0.272
+MBR00014,81,F,2023,108,Vascular Disease,I70.201,0.288
+MBR00014,81,F,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00014,81,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00014,81,F,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00015,65,M,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00015,65,M,2023,22,Morbid Obesity,E66.01,0.272
+MBR00015,65,M,2023,108,Vascular Disease,I70.201,0.288
+MBR00016,66,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00016,66,F,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00017,83,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00017,83,F,2023,108,Vascular Disease,I73.9,0.288
+MBR00017,83,F,2022,111,COPD,J44.1,0.335
+MBR00017,83,F,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00018,80,F,2022,111,COPD,J44.0,0.335
+MBR00018,80,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00018,80,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00018,80,F,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00019,80,F,2022,108,Vascular Disease,I70.0,0.288
+MBR00019,80,F,2022,111,COPD,J44.1,0.335
+MBR00019,80,F,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00020,82,F,2023,22,Morbid Obesity,E66.01,0.272
+MBR00020,82,F,2023,108,Vascular Disease,I70.201,0.288
+MBR00021,84,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00021,84,F,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00021,84,F,2023,111,COPD,J44.1,0.335
+MBR00021,84,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00022,83,F,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00022,83,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00022,83,F,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00022,83,F,2023,108,Vascular Disease,I70.201,0.288
+MBR00023,78,M,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00023,78,M,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00024,85,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00024,85,F,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00024,85,F,2023,111,COPD,J44.1,0.335
+MBR00025,79,F,2022,111,COPD,J44.9,0.335
+MBR00025,79,F,2022,96,Atrial Fibrillation,I48.11,0.168
+MBR00025,79,F,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00026,82,M,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00026,82,M,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00026,82,M,2023,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00026,82,M,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00027,87,M,2022,19,Diabetes without Complication,E10.9,0.118
+MBR00027,87,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00028,74,F,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00028,74,F,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00028,74,F,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00029,72,F,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00029,72,F,2023,111,COPD,J44.0,0.335
+MBR00029,72,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00029,72,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00030,76,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00031,71,F,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00031,71,F,2023,19,Diabetes without Complication,E11.9,0.118
+MBR00031,71,F,2022,108,Vascular Disease,I70.201,0.288
+MBR00032,81,F,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00032,81,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00033,74,F,2023,19,Diabetes without Complication,E11.9,0.118
+MBR00034,69,M,2022,111,COPD,J44.0,0.335
+MBR00034,69,M,2022,108,Vascular Disease,I70.201,0.288
+MBR00034,69,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00034,69,M,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00035,67,M,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00036,74,F,2022,108,Vascular Disease,I73.9,0.288
+MBR00036,74,F,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00037,89,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00038,82,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00038,82,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00038,82,M,2022,108,Vascular Disease,I70.0,0.288
+MBR00039,81,F,2023,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00039,81,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00039,81,F,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00039,81,F,2022,96,Atrial Fibrillation,I48.11,0.168
+MBR00040,84,M,2022,108,Vascular Disease,I70.201,0.288
+MBR00040,84,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00041,77,M,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00041,77,M,2022,19,Diabetes without Complication,E10.9,0.118
+MBR00042,76,M,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00042,76,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00043,69,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00044,68,F,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00044,68,F,2023,111,COPD,J44.0,0.335
+MBR00045,84,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00045,84,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00045,84,F,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00045,84,F,2023,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00046,76,M,2023,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00046,76,M,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00046,76,M,2023,22,Morbid Obesity,E66.01,0.272
+MBR00046,76,M,2022,108,Vascular Disease,I73.9,0.288
+MBR00047,65,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00047,65,M,2023,111,COPD,J44.1,0.335
+MBR00048,88,F,2023,111,COPD,J44.9,0.335
+MBR00049,81,M,2023,22,Morbid Obesity,E66.09,0.272
+MBR00050,83,F,2022,22,Morbid Obesity,E66.09,0.272
+MBR00051,86,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00051,86,M,2022,96,Atrial Fibrillation,I48.0,0.168
+MBR00052,65,M,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00052,65,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00052,65,M,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00052,65,M,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00053,81,M,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00053,81,M,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00054,72,M,2023,111,COPD,J44.0,0.335
+MBR00054,72,M,2022,96,Atrial Fibrillation,I48.11,0.168
+MBR00055,89,M,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00055,89,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00055,89,M,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00055,89,M,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00056,83,M,2023,111,COPD,J44.0,0.335
+MBR00056,83,M,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00057,81,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00058,80,M,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00058,80,M,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00058,80,M,2022,19,Diabetes without Complication,E10.9,0.118
+MBR00059,83,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00060,78,F,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00061,65,F,2022,19,Diabetes without Complication,E10.9,0.118
+MBR00062,78,M,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00062,78,M,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00062,78,M,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00062,78,M,2022,111,COPD,J44.0,0.335
+MBR00063,69,F,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00063,69,F,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00064,74,M,2022,111,COPD,J44.0,0.335
+MBR00065,70,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00065,70,F,2023,108,Vascular Disease,I70.201,0.288
+MBR00066,70,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00066,70,M,2023,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00066,70,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00066,70,M,2023,111,COPD,J44.9,0.335
+MBR00067,79,F,2022,96,Atrial Fibrillation,I48.11,0.168
+MBR00067,79,F,2023,111,COPD,J44.0,0.335
+MBR00068,69,F,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00068,69,F,2022,111,COPD,J44.1,0.335
+MBR00069,75,M,2022,108,Vascular Disease,I70.0,0.288
+MBR00069,75,M,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00069,75,M,2022,59,Major Depressive Disorder,F32.0,0.243
+MBR00069,75,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00070,73,M,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00071,85,F,2023,111,COPD,J44.0,0.335
+MBR00071,85,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00071,85,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00072,78,F,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00072,78,F,2022,22,Morbid Obesity,E66.09,0.272
+MBR00073,82,F,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00073,82,F,2022,108,Vascular Disease,I70.201,0.288
+MBR00073,82,F,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00073,82,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00074,78,M,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00074,78,M,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00074,78,M,2022,96,Atrial Fibrillation,I48.0,0.168
+MBR00074,78,M,2022,111,COPD,J44.1,0.335
+MBR00075,68,M,2022,22,Morbid Obesity,E66.09,0.272
+MBR00075,68,M,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00076,65,F,2023,108,Vascular Disease,I70.201,0.288
+MBR00076,65,F,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00077,83,M,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00077,83,M,2023,22,Morbid Obesity,E66.09,0.272
+MBR00077,83,M,2023,108,Vascular Disease,I73.9,0.288
+MBR00077,83,M,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00078,72,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00078,72,F,2023,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00079,81,F,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00079,81,F,2022,59,Major Depressive Disorder,F32.0,0.243
+MBR00079,81,F,2023,22,Morbid Obesity,E66.09,0.272
+MBR00080,68,F,2023,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00080,68,F,2022,96,Atrial Fibrillation,I48.0,0.168
+MBR00080,68,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00081,73,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00081,73,M,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00081,73,M,2022,111,COPD,J44.9,0.335
+MBR00082,76,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00082,76,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00082,76,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00083,82,M,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00084,72,M,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00084,72,M,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00084,72,M,2022,96,Atrial Fibrillation,I48.11,0.168
+MBR00085,78,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00085,78,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00085,78,M,2022,22,Morbid Obesity,E66.01,0.272
+MBR00086,71,M,2022,111,COPD,J44.1,0.335
+MBR00086,71,M,2023,22,Morbid Obesity,E66.01,0.272
+MBR00086,71,M,2022,59,Major Depressive Disorder,F32.0,0.243
+MBR00086,71,M,2022,108,Vascular Disease,I73.9,0.288
+MBR00087,88,M,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00087,88,M,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00087,88,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00088,88,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00088,88,F,2022,19,Diabetes without Complication,E10.9,0.118
+MBR00088,88,F,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00088,88,F,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00089,85,M,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00089,85,M,2023,22,Morbid Obesity,E66.01,0.272
+MBR00089,85,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00089,85,M,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00090,76,F,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00091,76,F,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00092,66,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00093,66,M,2022,22,Morbid Obesity,E66.01,0.272
+MBR00094,89,F,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00094,89,F,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00095,77,M,2022,108,Vascular Disease,I70.0,0.288
+MBR00096,65,M,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00097,71,F,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00097,71,F,2022,108,Vascular Disease,I73.9,0.288
+MBR00097,71,F,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00098,77,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00098,77,M,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00099,71,M,2022,108,Vascular Disease,I73.9,0.288
+MBR00099,71,M,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00099,71,M,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00100,89,M,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00101,89,F,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00102,71,F,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00102,71,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00102,71,F,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00103,74,M,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00104,87,M,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00104,87,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00104,87,M,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00104,87,M,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00105,74,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00105,74,F,2023,111,COPD,J44.0,0.335
+MBR00106,89,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00106,89,F,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00106,89,F,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00106,89,F,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00107,69,M,2022,96,Atrial Fibrillation,I48.0,0.168
+MBR00107,69,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00107,69,M,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00107,69,M,2023,108,Vascular Disease,I73.9,0.288
+MBR00108,88,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00108,88,M,2022,111,COPD,J44.0,0.335
+MBR00109,77,F,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00109,77,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00110,81,M,2023,108,Vascular Disease,I70.201,0.288
+MBR00110,81,M,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00110,81,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00111,70,M,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00111,70,M,2022,22,Morbid Obesity,E66.09,0.272
+MBR00111,70,M,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00111,70,M,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00112,76,F,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00113,80,F,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00113,80,F,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00114,83,F,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00114,83,F,2023,22,Morbid Obesity,E66.09,0.272
+MBR00114,83,F,2022,108,Vascular Disease,I70.201,0.288
+MBR00115,80,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00116,89,M,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00116,89,M,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00116,89,M,2023,108,Vascular Disease,I70.201,0.288
+MBR00117,81,M,2023,19,Diabetes without Complication,E11.9,0.118
+MBR00118,66,M,2023,19,Diabetes without Complication,E11.9,0.118
+MBR00118,66,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00118,66,M,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00118,66,M,2022,108,Vascular Disease,I70.0,0.288
+MBR00119,86,F,2023,108,Vascular Disease,I70.201,0.288
+MBR00119,86,F,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00119,86,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00119,86,F,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00120,79,F,2022,111,COPD,J44.0,0.335
+MBR00120,79,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00120,79,F,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00121,75,F,2022,108,Vascular Disease,I70.201,0.288
+MBR00121,75,F,2023,111,COPD,J44.9,0.335
+MBR00121,75,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00121,75,F,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00122,70,M,2022,22,Morbid Obesity,E66.01,0.272
+MBR00123,81,M,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00123,81,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00123,81,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00123,81,M,2022,111,COPD,J44.9,0.335
+MBR00124,76,M,2023,108,Vascular Disease,I70.201,0.288
+MBR00124,76,M,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00124,76,M,2022,111,COPD,J44.1,0.335
+MBR00124,76,M,2023,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00125,88,F,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00125,88,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00125,88,F,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00126,65,F,2022,22,Morbid Obesity,E66.09,0.272
+MBR00126,65,F,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00127,84,M,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00127,84,M,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00128,86,M,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00128,86,M,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00129,75,M,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00129,75,M,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00129,75,M,2022,111,COPD,J44.9,0.335
+MBR00130,71,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00130,71,M,2022,22,Morbid Obesity,E66.09,0.272
+MBR00130,71,M,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00130,71,M,2023,111,COPD,J44.9,0.335
+MBR00131,77,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00132,83,F,2022,22,Morbid Obesity,E66.09,0.272
+MBR00132,83,F,2022,108,Vascular Disease,I73.9,0.288
+MBR00133,86,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00133,86,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00133,86,M,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00134,83,F,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00135,83,F,2023,22,Morbid Obesity,E66.09,0.272
+MBR00135,83,F,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00136,66,M,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00137,84,F,2022,111,COPD,J44.0,0.335
+MBR00137,84,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00137,84,F,2022,59,Major Depressive Disorder,F32.0,0.243
+MBR00138,79,M,2022,108,Vascular Disease,I70.201,0.288
+MBR00138,79,M,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00138,79,M,2022,96,Atrial Fibrillation,I48.0,0.168
+MBR00139,86,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00139,86,F,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00139,86,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00139,86,F,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00140,66,M,2022,108,Vascular Disease,I73.9,0.288
+MBR00140,66,M,2022,22,Morbid Obesity,E66.01,0.272
+MBR00140,66,M,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00141,76,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00141,76,F,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00141,76,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00141,76,F,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00142,87,F,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00142,87,F,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00143,65,M,2023,108,Vascular Disease,I73.9,0.288
+MBR00143,65,M,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00143,65,M,2022,96,Atrial Fibrillation,I48.11,0.168
+MBR00143,65,M,2023,85,Congestive Heart Failure,I50.1,0.323
+MBR00144,79,F,2022,111,COPD,J44.1,0.335
+MBR00145,80,M,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00146,85,M,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00146,85,M,2022,22,Morbid Obesity,E66.01,0.272
+MBR00146,85,M,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00147,77,M,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00148,83,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00149,78,F,2022,96,Atrial Fibrillation,I48.11,0.168
+MBR00149,78,F,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00150,80,M,2022,108,Vascular Disease,I70.201,0.288
+MBR00150,80,M,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00150,80,M,2022,111,COPD,J44.9,0.335
+MBR00151,79,M,2023,22,Morbid Obesity,E66.09,0.272
+MBR00151,79,M,2023,19,Diabetes without Complication,E11.9,0.118
+MBR00151,79,M,2022,108,Vascular Disease,I70.0,0.288
+MBR00151,79,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00152,67,F,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00152,67,F,2022,108,Vascular Disease,I73.9,0.288
+MBR00152,67,F,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00152,67,F,2022,111,COPD,J44.0,0.335
+MBR00153,71,M,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00153,71,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00153,71,M,2023,111,COPD,J44.1,0.335
+MBR00153,71,M,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00154,73,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00155,68,F,2022,111,COPD,J44.1,0.335
+MBR00155,68,F,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00155,68,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00155,68,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00156,67,F,2023,108,Vascular Disease,I73.9,0.288
+MBR00156,67,F,2023,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00157,73,F,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00158,73,M,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00158,73,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00158,73,M,2022,111,COPD,J44.0,0.335
+MBR00159,68,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00160,69,F,2023,108,Vascular Disease,I70.0,0.288
+MBR00160,69,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00160,69,F,2023,22,Morbid Obesity,E66.01,0.272
+MBR00161,66,F,2022,111,COPD,J44.0,0.335
+MBR00162,79,M,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00162,79,M,2023,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00162,79,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00163,86,M,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00163,86,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00163,86,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00163,86,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00164,66,M,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00164,66,M,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00165,75,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00165,75,M,2023,19,Diabetes without Complication,E11.9,0.118
+MBR00165,75,M,2023,111,COPD,J44.1,0.335
+MBR00165,75,M,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00166,74,F,2022,19,Diabetes without Complication,E10.9,0.118
+MBR00166,74,F,2022,108,Vascular Disease,I73.9,0.288
+MBR00167,67,F,2022,108,Vascular Disease,I70.0,0.288
+MBR00167,67,F,2023,19,Diabetes without Complication,E11.9,0.118
+MBR00167,67,F,2023,111,COPD,J44.0,0.335
+MBR00168,78,M,2022,22,Morbid Obesity,E66.09,0.272
+MBR00168,78,M,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00169,89,M,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00169,89,M,2022,22,Morbid Obesity,E66.01,0.272
+MBR00169,89,M,2022,108,Vascular Disease,I70.201,0.288
+MBR00169,89,M,2023,85,Congestive Heart Failure,I50.1,0.323
+MBR00170,89,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00170,89,F,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00171,83,M,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00171,83,M,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00171,83,M,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00171,83,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00172,67,M,2022,19,Diabetes without Complication,E10.9,0.118
+MBR00172,67,M,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00172,67,M,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00173,85,F,2022,96,Atrial Fibrillation,I48.0,0.168
+MBR00173,85,F,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00173,85,F,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00174,68,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00174,68,M,2023,85,Congestive Heart Failure,I50.1,0.323
+MBR00174,68,M,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00175,84,M,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00175,84,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00176,80,M,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00177,72,M,2023,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00177,72,M,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00177,72,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00178,87,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00179,75,F,2023,108,Vascular Disease,I70.0,0.288
+MBR00179,75,F,2023,111,COPD,J44.1,0.335
+MBR00179,75,F,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00180,80,F,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00181,78,M,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00182,77,M,2022,111,COPD,J44.1,0.335
+MBR00182,77,M,2023,22,Morbid Obesity,E66.09,0.272
+MBR00182,77,M,2023,85,Congestive Heart Failure,I50.1,0.323
+MBR00182,77,M,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00183,83,F,2022,22,Morbid Obesity,E66.09,0.272
+MBR00184,77,F,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00185,86,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00186,88,F,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00187,79,M,2023,22,Morbid Obesity,E66.09,0.272
+MBR00187,79,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00187,79,M,2023,85,Congestive Heart Failure,I50.1,0.323
+MBR00187,79,M,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00188,74,M,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00188,74,M,2023,85,Congestive Heart Failure,I50.1,0.323
+MBR00188,74,M,2023,108,Vascular Disease,I70.201,0.288
+MBR00188,74,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00189,89,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00190,68,F,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00190,68,F,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00191,89,M,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00191,89,M,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00191,89,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00191,89,M,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00192,83,M,2022,108,Vascular Disease,I70.0,0.288
+MBR00192,83,M,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00192,83,M,2023,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00192,83,M,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00193,87,M,2022,108,Vascular Disease,I73.9,0.288
+MBR00193,87,M,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00193,87,M,2022,111,COPD,J44.0,0.335
+MBR00194,81,F,2022,59,Major Depressive Disorder,F32.0,0.243
+MBR00194,81,F,2023,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00194,81,F,2022,19,Diabetes without Complication,E10.9,0.118
+MBR00194,81,F,2022,111,COPD,J44.0,0.335
+MBR00195,81,F,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00195,81,F,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00196,69,M,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00196,69,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00196,69,M,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00196,69,M,2023,108,Vascular Disease,I70.201,0.288
+MBR00197,70,M,2023,22,Morbid Obesity,E66.09,0.272
+MBR00197,70,M,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00198,87,F,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00198,87,F,2023,85,Congestive Heart Failure,I50.1,0.323
+MBR00199,75,M,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00200,71,M,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00200,71,M,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00201,69,F,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00202,68,M,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00202,68,M,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00203,73,M,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00203,73,M,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00204,89,F,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00204,89,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00205,74,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00205,74,M,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00205,74,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00205,74,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00206,86,F,2023,22,Morbid Obesity,E66.09,0.272
+MBR00206,86,F,2023,111,COPD,J44.9,0.335
+MBR00206,86,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00206,86,F,2023,85,Congestive Heart Failure,I50.1,0.323
+MBR00207,67,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00207,67,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00207,67,F,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00208,88,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00208,88,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00208,88,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00208,88,F,2023,22,Morbid Obesity,E66.01,0.272
+MBR00209,75,F,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00209,75,F,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00210,73,F,2023,85,Congestive Heart Failure,I50.1,0.323
+MBR00210,73,F,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00210,73,F,2023,108,Vascular Disease,I73.9,0.288
+MBR00211,69,M,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00211,69,M,2022,59,Major Depressive Disorder,F32.0,0.243
+MBR00211,69,M,2023,22,Morbid Obesity,E66.09,0.272
+MBR00212,82,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00212,82,F,2023,85,Congestive Heart Failure,I50.1,0.323
+MBR00212,82,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00213,85,F,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00213,85,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00213,85,F,2023,22,Morbid Obesity,E66.01,0.272
+MBR00213,85,F,2022,108,Vascular Disease,I70.0,0.288
+MBR00214,69,F,2022,22,Morbid Obesity,E66.09,0.272
+MBR00214,69,F,2023,108,Vascular Disease,I70.201,0.288
+MBR00214,69,F,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00215,67,F,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00215,67,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00216,68,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00217,87,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00217,87,M,2023,111,COPD,J44.9,0.335
+MBR00217,87,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00218,84,M,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00219,83,M,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00219,83,M,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00219,83,M,2022,111,COPD,J44.1,0.335
+MBR00219,83,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00220,68,F,2023,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00221,73,F,2023,108,Vascular Disease,I73.9,0.288
+MBR00221,73,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00221,73,F,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00222,76,M,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00222,76,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00222,76,M,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00223,73,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00223,73,F,2023,22,Morbid Obesity,E66.01,0.272
+MBR00223,73,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00224,86,F,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00225,77,M,2023,111,COPD,J44.1,0.335
+MBR00225,77,M,2023,108,Vascular Disease,I70.201,0.288
+MBR00226,81,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00226,81,M,2023,108,Vascular Disease,I73.9,0.288
+MBR00226,81,M,2022,22,Morbid Obesity,E66.09,0.272
+MBR00226,81,M,2023,111,COPD,J44.0,0.335
+MBR00227,88,M,2022,111,COPD,J44.9,0.335
+MBR00228,85,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00228,85,M,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00228,85,M,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00228,85,M,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00229,75,F,2023,22,Morbid Obesity,E66.01,0.272
+MBR00229,75,F,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00229,75,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00230,69,F,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00231,68,F,2022,111,COPD,J44.0,0.335
+MBR00232,66,M,2022,22,Morbid Obesity,E66.09,0.272
+MBR00233,89,M,2023,22,Morbid Obesity,E66.09,0.272
+MBR00233,89,M,2022,108,Vascular Disease,I70.0,0.288
+MBR00233,89,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00233,89,M,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00234,65,M,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00235,75,F,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00235,75,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00235,75,F,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00235,75,F,2022,108,Vascular Disease,I73.9,0.288
+MBR00236,72,M,2022,111,COPD,J44.0,0.335
+MBR00236,72,M,2023,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00236,72,M,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00236,72,M,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00237,83,M,2023,111,COPD,J44.0,0.335
+MBR00237,83,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00238,80,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00238,80,F,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00238,80,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00238,80,F,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00239,78,F,2022,96,Atrial Fibrillation,I48.11,0.168
+MBR00239,78,F,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00239,78,F,2023,19,Diabetes without Complication,E11.9,0.118
+MBR00240,69,M,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00240,69,M,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00240,69,M,2023,22,Morbid Obesity,E66.09,0.272
+MBR00241,86,F,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00242,67,F,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00242,67,F,2023,108,Vascular Disease,I73.9,0.288
+MBR00243,67,M,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00243,67,M,2023,22,Morbid Obesity,E66.09,0.272
+MBR00243,67,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00244,69,M,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00245,86,M,2023,22,Morbid Obesity,E66.09,0.272
+MBR00245,86,M,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00245,86,M,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00246,80,F,2023,111,COPD,J44.1,0.335
+MBR00246,80,F,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00246,80,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00246,80,F,2022,108,Vascular Disease,I70.201,0.288
+MBR00247,82,M,2022,108,Vascular Disease,I70.201,0.288
+MBR00247,82,M,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00247,82,M,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00248,72,M,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00248,72,M,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00248,72,M,2022,96,Atrial Fibrillation,I48.11,0.168
+MBR00249,67,F,2022,108,Vascular Disease,I70.0,0.288
+MBR00249,67,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00250,67,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00250,67,M,2022,111,COPD,J44.0,0.335
+MBR00251,72,F,2022,111,COPD,J44.1,0.335
+MBR00252,70,M,2022,108,Vascular Disease,I70.201,0.288
+MBR00252,70,M,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00252,70,M,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00253,81,M,2022,111,COPD,J44.1,0.335
+MBR00253,81,M,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00254,87,F,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00254,87,F,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00254,87,F,2022,96,Atrial Fibrillation,I48.0,0.168
+MBR00254,87,F,2022,108,Vascular Disease,I70.201,0.288
+MBR00255,86,M,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00256,82,F,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00256,82,F,2022,108,Vascular Disease,I73.9,0.288
+MBR00257,78,F,2022,108,Vascular Disease,I73.9,0.288
+MBR00257,78,F,2022,111,COPD,J44.1,0.335
+MBR00258,82,F,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00258,82,F,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00259,65,M,2022,111,COPD,J44.9,0.335
+MBR00259,65,M,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00259,65,M,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00260,83,M,2023,108,Vascular Disease,I73.9,0.288
+MBR00261,79,M,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00262,85,F,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00262,85,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00262,85,F,2023,22,Morbid Obesity,E66.09,0.272
+MBR00263,67,F,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00264,70,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00264,70,M,2022,22,Morbid Obesity,E66.09,0.272
+MBR00265,70,F,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00265,70,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00265,70,F,2023,85,Congestive Heart Failure,I50.1,0.323
+MBR00265,70,F,2022,22,Morbid Obesity,E66.09,0.272
+MBR00266,76,M,2022,108,Vascular Disease,I73.9,0.288
+MBR00267,67,M,2023,22,Morbid Obesity,E66.09,0.272
+MBR00267,67,M,2023,108,Vascular Disease,I70.201,0.288
+MBR00268,87,F,2022,111,COPD,J44.9,0.335
+MBR00268,87,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00268,87,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00268,87,F,2023,22,Morbid Obesity,E66.01,0.272
+MBR00269,71,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00269,71,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00269,71,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00269,71,F,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00270,79,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00271,66,F,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00271,66,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00271,66,F,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00271,66,F,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00272,76,M,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00272,76,M,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00273,65,M,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00273,65,M,2022,111,COPD,J44.1,0.335
+MBR00273,65,M,2022,22,Morbid Obesity,E66.09,0.272
+MBR00274,84,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00275,85,F,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00276,67,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00276,67,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00277,80,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00277,80,F,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00277,80,F,2023,22,Morbid Obesity,E66.09,0.272
+MBR00278,70,F,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00278,70,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00278,70,F,2023,108,Vascular Disease,I70.0,0.288
+MBR00278,70,F,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00279,65,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00279,65,M,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00279,65,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00280,74,M,2022,22,Morbid Obesity,E66.01,0.272
+MBR00280,74,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00280,74,M,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00281,74,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00282,81,M,2022,108,Vascular Disease,I70.0,0.288
+MBR00282,81,M,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00282,81,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00282,81,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00283,85,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00283,85,M,2022,111,COPD,J44.9,0.335
+MBR00284,73,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00284,73,M,2022,22,Morbid Obesity,E66.01,0.272
+MBR00285,67,F,2023,22,Morbid Obesity,E66.01,0.272
+MBR00285,67,F,2023,108,Vascular Disease,I73.9,0.288
+MBR00286,84,M,2022,111,COPD,J44.1,0.335
+MBR00287,67,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00288,67,F,2022,108,Vascular Disease,I70.0,0.288
+MBR00289,89,M,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00290,79,F,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00290,79,F,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00290,79,F,2023,108,Vascular Disease,I70.201,0.288
+MBR00290,79,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00291,83,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00292,74,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00292,74,F,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00292,74,F,2022,22,Morbid Obesity,E66.01,0.272
+MBR00292,74,F,2022,111,COPD,J44.9,0.335
+MBR00293,83,F,2022,111,COPD,J44.9,0.335
+MBR00294,89,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00294,89,M,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00295,80,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00296,75,F,2023,22,Morbid Obesity,E66.01,0.272
+MBR00296,75,F,2022,108,Vascular Disease,I70.201,0.288
+MBR00296,75,F,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00297,83,M,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00298,84,M,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00298,84,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00298,84,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00298,84,M,2022,111,COPD,J44.9,0.335
+MBR00299,82,F,2023,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00299,82,F,2022,22,Morbid Obesity,E66.01,0.272
+MBR00299,82,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00299,82,F,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00300,86,F,2022,22,Morbid Obesity,E66.01,0.272
+MBR00300,86,F,2022,96,Atrial Fibrillation,I48.0,0.168
+MBR00300,86,F,2022,108,Vascular Disease,I70.0,0.288
+MBR00301,79,M,2022,108,Vascular Disease,I70.0,0.288
+MBR00301,79,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00302,72,F,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00302,72,F,2023,108,Vascular Disease,I70.0,0.288
+MBR00303,73,M,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00303,73,M,2023,111,COPD,J44.1,0.335
+MBR00303,73,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00304,75,M,2022,22,Morbid Obesity,E66.01,0.272
+MBR00304,75,M,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00304,75,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00305,86,M,2022,22,Morbid Obesity,E66.09,0.272
+MBR00305,86,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00306,89,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00307,65,M,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00308,78,F,2022,111,COPD,J44.9,0.335
+MBR00308,78,F,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00308,78,F,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00308,78,F,2022,108,Vascular Disease,I70.201,0.288
+MBR00309,73,M,2023,108,Vascular Disease,I70.201,0.288
+MBR00309,73,M,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00310,85,M,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00310,85,M,2022,22,Morbid Obesity,E66.09,0.272
+MBR00310,85,M,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00311,65,M,2023,108,Vascular Disease,I70.201,0.288
+MBR00311,65,M,2022,19,Diabetes without Complication,E10.9,0.118
+MBR00311,65,M,2023,111,COPD,J44.1,0.335
+MBR00311,65,M,2022,96,Atrial Fibrillation,I48.0,0.168
+MBR00312,88,M,2022,108,Vascular Disease,I70.201,0.288
+MBR00312,88,M,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00313,65,F,2023,22,Morbid Obesity,E66.01,0.272
+MBR00314,70,F,2023,22,Morbid Obesity,E66.09,0.272
+MBR00314,70,F,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00314,70,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00314,70,F,2023,108,Vascular Disease,I70.0,0.288
+MBR00315,71,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00315,71,M,2023,111,COPD,J44.0,0.335
+MBR00315,71,M,2022,22,Morbid Obesity,E66.09,0.272
+MBR00316,80,M,2022,59,Major Depressive Disorder,F32.0,0.243
+MBR00317,68,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00317,68,F,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00317,68,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00317,68,F,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00318,81,F,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00318,81,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00319,86,M,2022,59,Major Depressive Disorder,F32.0,0.243
+MBR00319,86,M,2022,111,COPD,J44.0,0.335
+MBR00320,77,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00320,77,F,2023,85,Congestive Heart Failure,I50.1,0.323
+MBR00321,86,M,2023,111,COPD,J44.1,0.335
+MBR00321,86,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00322,78,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00322,78,M,2023,19,Diabetes without Complication,E11.9,0.118
+MBR00322,78,M,2022,108,Vascular Disease,I70.201,0.288
+MBR00323,67,F,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00323,67,F,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00323,67,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00323,67,F,2023,108,Vascular Disease,I70.201,0.288
+MBR00324,71,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00324,71,F,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00324,71,F,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00324,71,F,2022,108,Vascular Disease,I70.0,0.288
+MBR00325,75,M,2022,59,Major Depressive Disorder,F32.0,0.243
+MBR00325,75,M,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00325,75,M,2022,108,Vascular Disease,I70.201,0.288
+MBR00326,76,M,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00326,76,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00327,85,F,2023,111,COPD,J44.9,0.335
+MBR00327,85,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00328,81,M,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00328,81,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00329,72,M,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00329,72,M,2022,108,Vascular Disease,I70.201,0.288
+MBR00329,72,M,2023,111,COPD,J44.9,0.335
+MBR00330,66,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00330,66,M,2023,111,COPD,J44.1,0.335
+MBR00330,66,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00330,66,M,2022,22,Morbid Obesity,E66.01,0.272
+MBR00331,83,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00331,83,F,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00331,83,F,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00331,83,F,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00332,85,F,2023,108,Vascular Disease,I70.0,0.288
+MBR00332,85,F,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00333,75,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00333,75,M,2023,22,Morbid Obesity,E66.01,0.272
+MBR00333,75,M,2023,111,COPD,J44.1,0.335
+MBR00333,75,M,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00334,67,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00334,67,F,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00334,67,F,2022,22,Morbid Obesity,E66.01,0.272
+MBR00335,68,F,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00335,68,F,2023,108,Vascular Disease,I73.9,0.288
+MBR00335,68,F,2022,19,Diabetes without Complication,E10.9,0.118
+MBR00336,85,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00336,85,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00336,85,F,2022,22,Morbid Obesity,E66.09,0.272
+MBR00337,70,F,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00337,70,F,2023,108,Vascular Disease,I70.201,0.288
+MBR00338,67,M,2023,22,Morbid Obesity,E66.01,0.272
+MBR00338,67,M,2023,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00338,67,M,2022,111,COPD,J44.0,0.335
+MBR00339,86,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00339,86,F,2022,111,COPD,J44.0,0.335
+MBR00339,86,F,2022,22,Morbid Obesity,E66.09,0.272
+MBR00340,89,F,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00341,66,M,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00341,66,M,2022,19,Diabetes without Complication,E10.9,0.118
+MBR00341,66,M,2022,22,Morbid Obesity,E66.09,0.272
+MBR00341,66,M,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00342,82,M,2022,108,Vascular Disease,I70.201,0.288
+MBR00342,82,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00342,82,M,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00343,86,F,2022,111,COPD,J44.1,0.335
+MBR00343,86,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00344,78,F,2023,22,Morbid Obesity,E66.09,0.272
+MBR00344,78,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00345,88,F,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00345,88,F,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00346,81,F,2023,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00346,81,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00346,81,F,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00346,81,F,2023,111,COPD,J44.9,0.335
+MBR00347,73,M,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00347,73,M,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00347,73,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00348,81,M,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00348,81,M,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00348,81,M,2023,111,COPD,J44.1,0.335
+MBR00348,81,M,2022,22,Morbid Obesity,E66.09,0.272
+MBR00349,69,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00349,69,F,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00349,69,F,2023,22,Morbid Obesity,E66.09,0.272
+MBR00350,69,F,2023,111,COPD,J44.1,0.335
+MBR00350,69,F,2022,19,Diabetes without Complication,E10.9,0.118
+MBR00351,70,F,2023,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00351,70,F,2022,22,Morbid Obesity,E66.01,0.272
+MBR00351,70,F,2022,108,Vascular Disease,I70.0,0.288
+MBR00351,70,F,2022,111,COPD,J44.1,0.335
+MBR00352,86,M,2022,108,Vascular Disease,I70.0,0.288
+MBR00353,85,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00354,71,F,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00354,71,F,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00354,71,F,2023,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00355,68,F,2022,22,Morbid Obesity,E66.09,0.272
+MBR00355,68,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00355,68,F,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00356,80,F,2023,108,Vascular Disease,I73.9,0.288
+MBR00356,80,F,2022,96,Atrial Fibrillation,I48.0,0.168
+MBR00356,80,F,2022,111,COPD,J44.9,0.335
+MBR00356,80,F,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00357,84,M,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00357,84,M,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00357,84,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00358,77,M,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00358,77,M,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00359,78,F,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00359,78,F,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00359,78,F,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00359,78,F,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00360,82,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00360,82,M,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00361,85,M,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00361,85,M,2023,111,COPD,J44.0,0.335
+MBR00361,85,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00361,85,M,2022,22,Morbid Obesity,E66.01,0.272
+MBR00362,78,M,2022,111,COPD,J44.9,0.335
+MBR00363,71,M,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00363,71,M,2023,22,Morbid Obesity,E66.09,0.272
+MBR00363,71,M,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00364,83,F,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00364,83,F,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00364,83,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00364,83,F,2023,111,COPD,J44.0,0.335
+MBR00365,83,F,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00365,83,F,2022,108,Vascular Disease,I70.0,0.288
+MBR00366,84,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00366,84,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00366,84,F,2023,111,COPD,J44.0,0.335
+MBR00366,84,F,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00367,72,M,2023,22,Morbid Obesity,E66.09,0.272
+MBR00367,72,M,2023,111,COPD,J44.9,0.335
+MBR00367,72,M,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00368,77,M,2022,96,Atrial Fibrillation,I48.11,0.168
+MBR00368,77,M,2023,108,Vascular Disease,I73.9,0.288
+MBR00368,77,M,2022,111,COPD,J44.0,0.335
+MBR00369,80,M,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00369,80,M,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00369,80,M,2023,22,Morbid Obesity,E66.01,0.272
+MBR00370,65,F,2022,108,Vascular Disease,I70.0,0.288
+MBR00371,65,F,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00371,65,F,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00372,80,F,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00372,80,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00372,80,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00373,74,M,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00373,74,M,2022,108,Vascular Disease,I73.9,0.288
+MBR00373,74,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00373,74,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00374,73,M,2022,108,Vascular Disease,I70.201,0.288
+MBR00374,73,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00374,73,M,2023,111,COPD,J44.9,0.335
+MBR00374,73,M,2022,22,Morbid Obesity,E66.01,0.272
+MBR00375,86,F,2023,19,Diabetes without Complication,E11.9,0.118
+MBR00375,86,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00376,86,F,2023,111,COPD,J44.1,0.335
+MBR00377,67,M,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00377,67,M,2022,96,Atrial Fibrillation,I48.11,0.168
+MBR00377,67,M,2023,22,Morbid Obesity,E66.09,0.272
+MBR00377,67,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00378,72,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00378,72,M,2022,59,Major Depressive Disorder,F32.0,0.243
+MBR00378,72,M,2023,108,Vascular Disease,I70.201,0.288
+MBR00379,79,M,2023,111,COPD,J44.1,0.335
+MBR00379,79,M,2022,22,Morbid Obesity,E66.01,0.272
+MBR00380,76,M,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00380,76,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00380,76,M,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00381,75,F,2023,22,Morbid Obesity,E66.09,0.272
+MBR00382,72,M,2023,108,Vascular Disease,I70.201,0.288
+MBR00382,72,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00382,72,M,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00382,72,M,2022,111,COPD,J44.9,0.335
+MBR00383,74,M,2022,96,Atrial Fibrillation,I48.11,0.168
+MBR00384,77,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00385,74,F,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00385,74,F,2023,22,Morbid Obesity,E66.01,0.272
+MBR00385,74,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00386,68,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00387,87,M,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00388,87,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00388,87,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00388,87,F,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00389,89,F,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00389,89,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00390,85,M,2022,111,COPD,J44.1,0.335
+MBR00390,85,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00391,81,M,2023,22,Morbid Obesity,E66.01,0.272
+MBR00391,81,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00392,77,F,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00392,77,F,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00392,77,F,2022,96,Atrial Fibrillation,I48.11,0.168
+MBR00393,72,F,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00393,72,F,2023,108,Vascular Disease,I70.201,0.288
+MBR00393,72,F,2023,22,Morbid Obesity,E66.01,0.272
+MBR00393,72,F,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00394,71,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00394,71,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00394,71,M,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00394,71,M,2023,108,Vascular Disease,I70.201,0.288
+MBR00395,89,F,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00395,89,F,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00395,89,F,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00396,68,F,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00396,68,F,2023,111,COPD,J44.0,0.335
+MBR00396,68,F,2023,108,Vascular Disease,I70.201,0.288
+MBR00396,68,F,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00397,69,F,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00397,69,F,2022,108,Vascular Disease,I73.9,0.288
+MBR00397,69,F,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00398,67,M,2023,19,Diabetes without Complication,E11.9,0.118
+MBR00399,80,F,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00399,80,F,2023,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00400,76,M,2023,108,Vascular Disease,I73.9,0.288
+MBR00401,75,F,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00401,75,F,2023,22,Morbid Obesity,E66.09,0.272
+MBR00402,89,F,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00403,89,F,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00403,89,F,2023,111,COPD,J44.1,0.335
+MBR00404,89,F,2022,111,COPD,J44.1,0.335
+MBR00404,89,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00404,89,F,2022,108,Vascular Disease,I70.0,0.288
+MBR00404,89,F,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00405,69,F,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00405,69,F,2023,85,Congestive Heart Failure,I50.1,0.323
+MBR00405,69,F,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00405,69,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00406,68,F,2022,22,Morbid Obesity,E66.01,0.272
+MBR00406,68,F,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00407,80,M,2023,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00408,71,F,2023,111,COPD,J44.9,0.335
+MBR00408,71,F,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00408,71,F,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00408,71,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00409,85,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00409,85,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00409,85,M,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00410,86,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00411,79,F,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00411,79,F,2023,111,COPD,J44.0,0.335
+MBR00411,79,F,2023,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00411,79,F,2023,22,Morbid Obesity,E66.09,0.272
+MBR00412,80,M,2022,22,Morbid Obesity,E66.01,0.272
+MBR00413,68,M,2022,108,Vascular Disease,I73.9,0.288
+MBR00413,68,M,2023,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00414,75,M,2023,111,COPD,J44.0,0.335
+MBR00414,75,M,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00414,75,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00414,75,M,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00415,79,M,2022,108,Vascular Disease,I70.201,0.288
+MBR00415,79,M,2023,111,COPD,J44.9,0.335
+MBR00415,79,M,2022,19,Diabetes without Complication,E10.9,0.118
+MBR00416,88,M,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00416,88,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00416,88,M,2022,111,COPD,J44.0,0.335
+MBR00417,89,M,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00417,89,M,2023,111,COPD,J44.9,0.335
+MBR00418,86,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00418,86,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00418,86,M,2023,111,COPD,J44.1,0.335
+MBR00419,67,F,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00419,67,F,2022,108,Vascular Disease,I70.201,0.288
+MBR00419,67,F,2023,111,COPD,J44.1,0.335
+MBR00419,67,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00420,79,M,2022,108,Vascular Disease,I70.0,0.288
+MBR00420,79,M,2023,22,Morbid Obesity,E66.01,0.272
+MBR00420,79,M,2022,111,COPD,J44.1,0.335
+MBR00420,79,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00421,82,F,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00421,82,F,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00421,82,F,2022,59,Major Depressive Disorder,F32.0,0.243
+MBR00422,82,M,2023,108,Vascular Disease,I73.9,0.288
+MBR00423,78,M,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00423,78,M,2022,22,Morbid Obesity,E66.09,0.272
+MBR00424,66,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00424,66,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00424,66,F,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00424,66,F,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00425,69,F,2022,22,Morbid Obesity,E66.01,0.272
+MBR00425,69,F,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00425,69,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00426,87,M,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00427,82,F,2023,108,Vascular Disease,I70.201,0.288
+MBR00427,82,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00428,86,F,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00428,86,F,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00428,86,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00428,86,F,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00429,77,F,2022,96,Atrial Fibrillation,I48.11,0.168
+MBR00429,77,F,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00429,77,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00429,77,F,2022,108,Vascular Disease,I73.9,0.288
+MBR00430,74,F,2023,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00431,84,M,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00431,84,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00431,84,M,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00431,84,M,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00432,66,M,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00432,66,M,2023,22,Morbid Obesity,E66.01,0.272
+MBR00433,76,M,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00434,75,F,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00434,75,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00434,75,F,2023,111,COPD,J44.9,0.335
+MBR00434,75,F,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00435,88,F,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00435,88,F,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00435,88,F,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00436,82,M,2023,19,Diabetes without Complication,E11.9,0.118
+MBR00437,88,M,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00438,83,F,2022,108,Vascular Disease,I70.0,0.288
+MBR00438,83,F,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00438,83,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00439,86,F,2022,108,Vascular Disease,I70.201,0.288
+MBR00439,86,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00439,86,F,2022,19,Diabetes without Complication,E13.9,0.118
+MBR00439,86,F,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00440,75,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00440,75,M,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00440,75,M,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00440,75,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00441,71,F,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00441,71,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00441,71,F,2022,59,Major Depressive Disorder,F32.0,0.243
+MBR00441,71,F,2022,22,Morbid Obesity,E66.01,0.272
+MBR00442,84,M,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00442,84,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00443,70,F,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00444,88,M,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00444,88,M,2022,22,Morbid Obesity,E66.09,0.272
+MBR00444,88,M,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00445,83,M,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00445,83,M,2022,111,COPD,J44.1,0.335
+MBR00445,83,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00445,83,M,2023,22,Morbid Obesity,E66.01,0.272
+MBR00446,85,F,2022,111,COPD,J44.0,0.335
+MBR00446,85,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00447,68,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00447,68,M,2023,111,COPD,J44.9,0.335
+MBR00447,68,M,2023,22,Morbid Obesity,E66.01,0.272
+MBR00447,68,M,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00448,68,F,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00449,74,M,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00449,74,M,2022,108,Vascular Disease,I73.9,0.288
+MBR00449,74,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00449,74,M,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00450,87,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00450,87,M,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00451,71,F,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00451,71,F,2022,96,Atrial Fibrillation,I48.11,0.168
+MBR00452,83,F,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00452,83,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00452,83,F,2023,111,COPD,J44.9,0.335
+MBR00453,83,M,2022,111,COPD,J44.9,0.335
+MBR00454,77,M,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00454,77,M,2022,22,Morbid Obesity,E66.01,0.272
+MBR00454,77,M,2023,111,COPD,J44.1,0.335
+MBR00455,75,F,2023,19,Diabetes without Complication,E11.9,0.118
+MBR00455,75,F,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00455,75,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00456,83,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00456,83,F,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00456,83,F,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00456,83,F,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00457,65,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00457,65,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00457,65,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00457,65,M,2022,111,COPD,J44.9,0.335
+MBR00458,81,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00458,81,M,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00458,81,M,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00458,81,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00459,88,F,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00459,88,F,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00459,88,F,2022,22,Morbid Obesity,E66.09,0.272
+MBR00460,77,M,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00460,77,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00461,78,M,2023,96,Atrial Fibrillation,I48.19,0.168
+MBR00462,66,M,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00463,80,F,2023,111,COPD,J44.1,0.335
+MBR00463,80,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00464,89,M,2022,108,Vascular Disease,I70.201,0.288
+MBR00465,68,F,2022,108,Vascular Disease,I73.9,0.288
+MBR00465,68,F,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00465,68,F,2023,19,Diabetes without Complication,E11.9,0.118
+MBR00465,68,F,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00466,75,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00466,75,M,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00466,75,M,2023,111,COPD,J44.0,0.335
+MBR00466,75,M,2023,85,Congestive Heart Failure,I50.1,0.323
+MBR00467,77,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00468,67,M,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00468,67,M,2022,96,Atrial Fibrillation,I48.0,0.168
+MBR00468,67,M,2023,111,COPD,J44.1,0.335
+MBR00468,67,M,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00469,79,F,2022,111,COPD,J44.0,0.335
+MBR00469,79,F,2023,22,Morbid Obesity,E66.09,0.272
+MBR00470,79,M,2022,19,Diabetes without Complication,E10.9,0.118
+MBR00470,79,M,2022,59,Major Depressive Disorder,F32.2,0.243
+MBR00470,79,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00471,66,M,2022,111,COPD,J44.1,0.335
+MBR00471,66,M,2022,96,Atrial Fibrillation,I48.19,0.168
+MBR00471,66,M,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00472,66,M,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00472,66,M,2023,108,Vascular Disease,I70.201,0.288
+MBR00473,76,M,2022,111,COPD,J44.0,0.335
+MBR00474,87,M,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00474,87,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00474,87,M,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00474,87,M,2022,59,Major Depressive Disorder,F32.0,0.243
+MBR00475,69,F,2023,85,Congestive Heart Failure,I50.1,0.323
+MBR00475,69,F,2022,22,Morbid Obesity,E66.01,0.272
+MBR00476,87,M,2022,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00476,87,M,2022,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00477,80,M,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00477,80,M,2023,59,Major Depressive Disorder,F32.2,0.243
+MBR00478,82,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00478,82,M,2022,22,Morbid Obesity,E66.09,0.272
+MBR00478,82,M,2023,59,Major Depressive Disorder,F32.1,0.243
+MBR00479,81,M,2022,111,COPD,J44.1,0.335
+MBR00479,81,M,2023,18,Diabetes with Chronic Complication,E11.41,0.302
+MBR00480,66,M,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00480,66,M,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00480,66,M,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00480,66,M,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00481,85,F,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00482,88,M,2022,59,Major Depressive Disorder,F32.1,0.243
+MBR00482,88,M,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00482,88,M,2022,108,Vascular Disease,I70.0,0.288
+MBR00482,88,M,2023,85,Congestive Heart Failure,I50.9,0.323
+MBR00483,74,F,2022,96,Atrial Fibrillation,I48.11,0.168
+MBR00483,74,F,2022,108,Vascular Disease,I73.9,0.288
+MBR00483,74,F,2022,85,Congestive Heart Failure,I50.9,0.323
+MBR00483,74,F,2022,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00484,79,F,2023,111,COPD,J44.0,0.335
+MBR00485,85,M,2022,18,Diabetes with Chronic Complication,E10.40,0.302
+MBR00485,85,M,2023,111,COPD,J44.9,0.335
+MBR00486,67,F,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00486,67,F,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00486,67,F,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00486,67,F,2023,108,Vascular Disease,I70.0,0.288
+MBR00487,71,F,2023,108,Vascular Disease,I70.201,0.288
+MBR00487,71,F,2022,59,Major Depressive Disorder,F32.0,0.243
+MBR00488,84,M,2023,136,Chronic Kidney Disease Stage 5,N18.6,0.538
+MBR00488,84,M,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00488,84,M,2023,108,Vascular Disease,I70.0,0.288
+MBR00489,66,F,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00489,66,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00490,80,F,2023,19,Diabetes without Complication,E10.9,0.118
+MBR00490,80,F,2023,22,Morbid Obesity,E66.01,0.272
+MBR00491,76,M,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00491,76,M,2023,111,COPD,J44.9,0.335
+MBR00492,80,M,2023,19,Diabetes without Complication,E13.9,0.118
+MBR00492,80,M,2022,18,Diabetes with Chronic Complication,E11.40,0.302
+MBR00493,85,M,2023,96,Atrial Fibrillation,I48.11,0.168
+MBR00494,67,M,2022,59,Major Depressive Disorder,F32.0,0.243
+MBR00494,67,M,2023,85,Congestive Heart Failure,I50.20,0.323
+MBR00495,83,M,2022,85,Congestive Heart Failure,I50.1,0.323
+MBR00495,83,M,2023,108,Vascular Disease,I73.9,0.288
+MBR00495,83,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00495,83,M,2023,19,Diabetes without Complication,E11.9,0.118
+MBR00496,66,F,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00496,66,F,2023,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00496,66,F,2022,111,COPD,J44.1,0.335
+MBR00496,66,F,2023,59,Major Depressive Disorder,F32.0,0.243
+MBR00497,76,M,2022,85,Congestive Heart Failure,I50.20,0.323
+MBR00497,76,M,2022,19,Diabetes without Complication,E11.9,0.118
+MBR00498,70,F,2023,111,COPD,J44.9,0.335
+MBR00498,70,F,2023,96,Atrial Fibrillation,I48.0,0.168
+MBR00499,70,M,2023,137,Chronic Kidney Disease Stage 4,N18.4,0.289
+MBR00500,78,M,2022,59,Major Depressive Disorder,F32.0,0.243
+MBR00500,78,M,2023,111,COPD,J44.9,0.335
+MBR00500,78,M,2022,136,Chronic Kidney Disease Stage 5,N18.5,0.538
+MBR00500,78,M,2023,96,Atrial Fibrillation,I48.11,0.168
